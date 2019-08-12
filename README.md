@@ -5,7 +5,7 @@
 * Project information and task manager can be found [here](https://github.com/MatPiq/SDS-Group-35/projects).
   * New cards can be added [here](https://github.com/MatPiq/SDS-Group-35/projects/1#column-6188445)
 
-* Write your suggestions for research topics can be written in research-topics.ipynb
+* Write your suggestions for research topics can be written in [research-topics.ipynb](https://github.com/MatPiq/SDS-Group-35/blob/master/research-topics.ipynb) (open in jupyter notebook).
 
 * Group chat on [Slack](https://sdsgroup35.slack.com)
 
