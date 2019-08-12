@@ -7,7 +7,7 @@
   * Move cards to "done" when completed.
   * Your suggestions for research topics can be written in [research-topics.ipynb](https://github.com/MatPiq/SDS-Group-35/blob/master/research-topics.ipynb) (open in jupyter notebook).
   
-* In folder **daily exercises** we can share our solutions for the daily exercises.
+* In the folder **daily exercises** we can share our solutions for the daily exercises.
 * In the folder **notes** class notes can be shared.
 
 * Group chat on [Slack](https://sdsgroup35.slack.com)
