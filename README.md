@@ -3,7 +3,7 @@
 **Welcome to SDS Group 35 repo for the exam project!** 
 
 * Project information and task manager can be found [here](https://github.com/MatPiq/SDS-Group-35/projects).
-Pro
+  * New cards can be added [here](https://github.com/MatPiq/SDS-Group-35/projects/1#column-6188445)
 
 * Write your suggestions for research topics can be written in research-topics.ipynb
 
