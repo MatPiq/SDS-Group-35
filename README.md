@@ -12,7 +12,7 @@
 
 * Group chat on [Slack](https://sdsgroup35.slack.com)
 
-
+Overleaf LaTeX link https://www.overleaf.com/6874192216vbtbwbwhsgpy
 
 
 ![](https://databigandsmalldotcom.files.wordpress.com/2015/02/bigdata.jpg)
